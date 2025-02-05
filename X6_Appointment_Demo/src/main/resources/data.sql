@@ -1,0 +1,17 @@
+INSERT INTO appointment (id, start, end_time) VALUES (1234, '2020-02-01T14:00:00', '2020-02-01T18:00:00');
+INSERT INTO appointment (id, start, end_time) VALUES (1235, '2020-02-01T15:00:00', '2020-02-01T19:00:00');
+INSERT INTO appointment (id, start, end_time) VALUES (1236, '2020-02-01T07:00:00', '2020-02-01T11:00:00');
+INSERT INTO appointment (id, start, end_time) VALUES (1237, '2020-02-01T07:00:00', '2020-02-01T15:00:00');
+INSERT INTO appointment (id, start, end_time) VALUES (1238, '2020-02-02T07:30:00', '2020-02-02T15:30:00');
+INSERT INTO appointment (id, start, end_time) VALUES (1239, '2020-02-03T08:00:00', '2020-02-03T12:00:00');
+INSERT INTO appointment (id, start, end_time) VALUES (1240, '2020-02-03T08:30:00', '2020-02-03T12:30:00');
+INSERT INTO appointment (id, start, end_time) VALUES (1241, '2020-02-03T08:30:00', '2020-02-03T16:30:00');
+INSERT INTO appointment (id, start, end_time) VALUES (1242, '2020-02-04T08:30:00', '2020-02-04T16:30:00');
+INSERT INTO appointment (id, start, end_time) VALUES (1243, '2020-02-05T08:30:00', '2020-02-05T12:30:00');
+INSERT INTO appointment (id, start, end_time) VALUES (1244, '2020-02-06T12:30:00', '2020-02-06T16:30:00');
+INSERT INTO appointment (id, start, end_time) VALUES (1245, '2020-02-07T08:30:00', '2020-02-07T12:30:00');
+INSERT INTO appointment (id, start, end_time) VALUES (1246, '2020-02-07T12:30:00', '2020-02-07T16:30:00');
+INSERT INTO appointment (id, start, end_time) VALUES (1247, '2020-02-08T08:30:00', '2020-02-08T11:30:00');
+INSERT INTO appointment (id, start, end_time) VALUES (1248, '2020-02-08T14:30:00', '2020-02-08T18:30:00');
+INSERT INTO appointment (id, start, end_time) VALUES (1249, '2020-02-09T08:30:00', '2020-02-09T12:30:00');
+INSERT INTO appointment (id, start, end_time) VALUES (1250, '2020-02-09T09:30:00', '2020-02-09T13:30:00');
