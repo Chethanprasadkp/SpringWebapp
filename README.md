@@ -15,3 +15,8 @@ appointment Service
     }
   }
 }
+-----------------------------------------
+jira_mcp = FastMCP(
+    name="Jira MCP Service",
+    description="Provides tools for interacting with Atlassian Jira.",
+)
